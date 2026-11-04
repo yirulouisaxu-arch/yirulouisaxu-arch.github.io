@@ -9,3 +9,11 @@
 # Local tooling
 .claude/
 .env
+
+# Images: only the web-sized profile photo is published
+*.jpg
+*.jpeg
+*.png
+*.heic
+*.HEIC
+!profile.jpg
