@@ -1,0 +1,11 @@
+# Private source files — never publish (see AGENTS.md)
+*.pdf
+*.docx
+*.doc
+
+# macOS
+.DS_Store
+
+# Local tooling
+.claude/
+.env
